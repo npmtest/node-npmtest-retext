@@ -1,6 +1,6 @@
 # npmtest-retext
 
-#### test coverage for  [retext (v5.0.0)](https://github.com/wooorm/retext)  [![npm package](https://img.shields.io/npm/v/npmtest-retext.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-retext) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-retext.svg)](https://travis-ci.org/npmtest/node-npmtest-retext)
+#### basic test coverage for  [retext (v5.0.0)](https://github.com/wooorm/retext)  [![npm package](https://img.shields.io/npm/v/npmtest-retext.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-retext) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-retext.svg)](https://travis-ci.org/npmtest/node-npmtest-retext)
 
 #### Natural language processor powered by plugins
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-retext/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-retext/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-retext/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-retext/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-retext/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-retext/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-retext/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-retext/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-retext/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-retext/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-retext/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-retext/build/coverage.html/index.html)
 
@@ -91,7 +91,8 @@
         "url": "https://github.com/wooorm/retext/tree/master/packages/retext"
     },
     "scripts": {},
-    "version": "5.0.0"
+    "version": "5.0.0",
+    "bin": {}
 }
 ```
 
